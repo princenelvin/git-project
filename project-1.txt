@@ -1,4 +1,4 @@
-version 11ab
+version 10
 The Lord is my shepherd
 The Lord is my Strength
 The Lord is my Providence
