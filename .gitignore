@@ -1,3 +1,4 @@
-project-2c.txt
-project-1.txt
-project-2.txt
+# add the files you want to ignore here.
+# one file per line
+test-proj.txt
+
